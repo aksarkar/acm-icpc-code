@@ -1,0 +1,226 @@
+3 3
+..b
+.cc
+dca
+8 14
+...aaaaaaaa.dd
+...aaaaaaaa..e
+.ccaaaaaaaa...
+.ccaagabbaa...
+.ccafgffffa...
+.ccaagabbaa...
+.ccaaaaaaaa...
+.cc...........
+8 14
+...aaaaaaaa.dd
+...aaaaaaaa.ee
+.ccaaaaaaaa...
+.ccaaaabbaa...
+.ccaaaabbaa...
+.ccaaaabbaa...
+.ccaaaaaaaa...
+..............
+4 5
+.d.b.
+adaaa
+.d.b.
+cccbc
+6 7
+.......
+.abc...
+..bc...
+...c...
+.dddd..
+..ee...
+40 40
+aaaaaaaabbbbbbbbccccccccddddddddeeeeeeee
+aaaaaaaabbbbbbbbccccccccddddddddeeeeeeee
+aaaaaaaabbbbbbbbccccccccddddddddeeeeeeee
+aaaaaaaabbbbbbbbccccccccddddddddeeeeeeee
+aaaaaaaabbbbbbbbccccccccddddddddeeeeeeee
+aaaaaaaabbbbbbbbccccccccddddddddeeeeeeee
+aaaaaaaabbbbbbbbccccccccddddddddeeeeeeee
+aaaaaaaabbbbbbbbccccccccddddddddeeeeeeee
+ffffffffgggggggghhhhhhhhiiiiiiiijjjjjjjj
+ffffffffgggggggghhhhhhhhiiiiiiiijjjjjjjj
+ffffffffgggggggghhhhhhhhiiiiiiiijjjjjjjj
+ffffffffgggggggghhhhhhhhiiiiiiiijjjjjjjj
+ffffffffgggggggghhhhhhhhiiiiiiiijjjjjjjj
+ffffffffgggggggghhhhhhhhiiiiiiiijjjjjjjj
+ffffffffgggggggghhhhhhhhiiiiiiiijjjjjjjj
+ffffffffgggggggghhhhhhhhiiiiiiiijjjjjjjj
+kkkkkkkkllllllllmmmmmmmmnnnnnnnnoooooooo
+kkkkkkkkllllllllmmmmmmmmnnnnnnnnoooooooo
+kkkkkkkkllllllllmmmmmmmmnnnnnnnnoooooooo
+kkkkkkkkllllllllmmmmmmmmnnnnnnnnoooooooo
+kkkkkkkkllllllllmmmmmmmmnnnnnnnnoooooooo
+kkkkkkkkllllllllmmmmmmmmnnnnnnnnoooooooo
+kkkkkkkkllllllllmmmmmmmmnnnnnnnnoooooooo
+kkkkkkkkllllllllmmmmmmmmnnnnnnnnoooooooo
+ppppppppqqqqqqqqrrrrrrrrsssssssstttttttt
+ppppppppqqqqqqqqrrrrrrrrsssssssstttttttt
+ppppppppqqqqqqqqrrrrrrrrsssssssstttttttt
+ppppppppqqqqqqqqrrrrrrrrsssssssstttttttt
+ppppppppqqqqqqqqrrrrrrrrsssssssstttttttt
+ppppppppqqqqqqqqrrrrrrrrsssssssstttttttt
+ppppppppqqqqqqqqrrrrrrrrsssssssstttttttt
+ppppppppqqqqqqqqrrrrrrrrsssssssstttttttt
+uuuuuuuuvvvvvvvvwwwwwwwwxxxxxxxxyyyyyyyy
+uuuuuuuuvvvvvvvvwwwwwwwwxxxxxxxxyyyyyyyy
+uuuuuuuuvvvvvvvvwwwwwwwwxxxxxxxxyyyyyyyy
+uuuuuuuuvvvvvvvvwwwwwwwwxxxxxxxxyyyyyyyy
+uuuuuuuuvvvvvvvvwwwwwwwwxxxxxxxxyyyyyyyy
+uuuuuuuuvvvvvvvvwwwwwwwwxxxxxxxxyyyyyyyy
+uuuuuuuuvvvvvvvvwwwwwwwwxxxxxxxxyyyyyyyy
+uuuuuuuuvvvvvvvvwwwwwwwwxxxxxxxxyyyyyyyy
+40 40
+aaaaaaaabbbbbbzzccccccccddddddddeeeeeeee
+aaaaaaaabbbbbbzzccccccccddddddddeeeeeeee
+aaaaaaaabbbbbbbbccccccccddddddddeeeeeeee
+aaaaaaaabbbbbbbbccccccccddddddddeeeeeeee
+aaaaaaaabbbbbbbbccccccccddddddddeeeeeeee
+aaaaaaaabbbbbbbbccccccccddddddddeeeeeeee
+aaaaaaaabbbbbbbbccccccccddddddddeeeeeeee
+aaaaaaaabbbbbbbbccccccccddddddddeeeeeeee
+ffffffffgggggggg........iiiiiiiijjjjjjjj
+ffffffffgggggggghhhhhhhhiiiiiiiijjjjjjjj
+ffffffffgggggggghhhhhhhhiiiiiiiijjjjjjjj
+ffffffffgggggggghhhhhhhhiiiiiiiijjjjjjjj
+ffffffffgggggggghhhhhhhhiiiiiiiijjjjjjjj
+ffffffffgggggggghhhhhhhhiiiiiiiijjjjjjjj
+ffffffffgggggggghhhhhhhhiiiiiiiijjjjjjjj
+ffffffffgggggggghhhhhhhhiiiiiiiijjjjjjjj
+kkkkkkkkllllllllmmmmmmmmnnnnnnnn.ooooooo
+kkkkkkkkllllllllmmmmmmmmnnnnnnnn.ooooooo
+kkkkkkkkllllllllmmmmmmmmnnnnnnnn.ooooooo
+kkkkkkkkllllllllmmmmmmmmnnnnnnnn.ooooooo
+kkkkkkkkllllllllmmmmmmmmnnnnnnnn.ooooooo
+kkkkkkkkllllllllmmmmmmmmnnnnnnnn.ooooooo
+kkkkkkkkllllllllmmmmmmmmnnnnnnnn.ooooooo
+kkkkkkkkllllllllmmmmmmmmnnnnnnnn.ooooooo
+ppppppppqqqqqqqqrrrrrrrrsssssssstttttttt
+ppppppppqqqqqqqqrrrrrrrrsssssssstttttttt
+ppppppppqqqqqqqqrrrrrrrrsssssssstttttttt
+ppppppppqqqqqqqqrrrrrrrrsssssssstttttttt
+ppppppppqqqqqqqqrrrrrrrrsssssssstttttttt
+ppppppppqqqqqqqqrrrrrrrrsssssssstttttttt
+ppppppppqqqqqqqqrrrrrrrrsssssssstttttttt
+ppppppppqqqqqqqqrrrrrrrrsssssssstttttttt
+........vvvvvvvvwwwwwwwwxxxxxxxxyyyyyyyy
+uuuuuuu.vvvvvvvvwwwwwwwwxxxxxxxxyyyyyyyy
+uuuuuuu.vvvvvvvvwwwwwwwwxxxxxxxxyyyyyyyy
+uuuuuuu.vvvvvvvvwwwwwwwwxxxxxxxxyyyyyyyy
+uuuuuuu.vvvvvvvvwwwwwwwwxxxxxxxxyyyyyyyy
+uuuuuuu.vvvvvvvvwwwwwwwwxxxxxxxxyyyyyyyy
+uuuuuuu.vvvvvvvvwwwwwwwwxxxxxxxxyyyyyyyy
+uuuuuuu.vvvvvvvvwwwwwwwwxxxxxxxxyyyyyyyy
+3 4
+aaaa
+aabb
+aabb
+3 3
+abb
+acb
+abb
+3 3
+..b
+.cc
+dca
+3 3
+...
+.a.
+...
+1 11
+aaacccbbb.d
+9 1
+a
+a
+a
+c
+c
+c
+b
+b
+b
+4 6
+.a.b.c
+d.e.f.
+.g.h.i
+j.k.l.
+4 6
+mambmc
+dmemfm
+ngnhni
+jmkmlm
+6 5
+abcde
+fghij
+klmno
+pqrst
+uvwxy
+..z..
+4 3
+abc
+d.e
+fgh
+i.j
+8 7
+..dd...
+.aa.bb.
+cc...ee
+cc...ee
+.ff.gg.
+.ff.hh.
+.iiiii.
+.......
+8 7
+jjddjjj
+jaajbbj
+ccjjjee
+ccjjjee
+jffjggj
+jffjhhj
+jiiiiij
+jjjjjjj
+8 7
+jjddj..
+jaajbb.
+ccjjjee
+ccjjjee
+jffjggh
+jffjhhh
+jiiiiih
+jjjjjjj
+8 7
+hhddhhh
+hjjabbh
+ccaaaee
+cc...ee
+.ff.gg.
+.ffiggi
+...iiii
+.......
+8 7
+jjddkkk
+jaapbbk
+cclllee
+cclllee
+jffmggn
+jffmhho
+jiiiiio
+jjooooo
+6 8
+eceaaaee
+ebbaaabb
+eceaaaee
+dcdeeeee
+dcdeeeee
+dcdeeeee
+6 9
+.c.aaa..h
+.bbaaabb.
+.c.aaa..f
+dcdeee...
+dddeee..g
+dddeee...
+0 0
