@@ -11,20 +11,3 @@ incorrect are explicitly marked "UNSOLVED".
 I make no guarantees solutions will be comprehensible. More recent code I've
 written is better documented. However, many solutions use ad-hoc algorithms
 which may not be documented.
-
-
-SLOC	Directory	SLOC-by-Language (Sorted)
-3420    regionals       java=3080,cpp=340
-1525    finals          java=1479,python=46
-1317    uva             cpp=739,java=578
-356     unknown         java=356
-315     lib             java=315
-0       top_dir         (none)
-
-Totals grouped by language (dominant language first):
-java:          5808 (83.77%)
-cpp:           1079 (15.56%)
-python:          46 (0.66%)
-
-Total Physical Source Lines of Code (SLOC)                = 6,933
-SLOCCount, Copyright (C) 2001-2004 David A. Wheeler
